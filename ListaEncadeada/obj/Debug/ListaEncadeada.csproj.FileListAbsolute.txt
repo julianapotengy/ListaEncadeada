@@ -1,0 +1,6 @@
+C:\Users\juliana.potengy\Desktop\GitHub\ListaEncadeada\ListaEncadeada\bin\Debug\ListaEncadeada.exe.config
+C:\Users\juliana.potengy\Desktop\GitHub\ListaEncadeada\ListaEncadeada\bin\Debug\ListaEncadeada.exe
+C:\Users\juliana.potengy\Desktop\GitHub\ListaEncadeada\ListaEncadeada\bin\Debug\ListaEncadeada.pdb
+C:\Users\juliana.potengy\Desktop\GitHub\ListaEncadeada\ListaEncadeada\obj\Debug\ListaEncadeada.csprojResolveAssemblyReference.cache
+C:\Users\juliana.potengy\Desktop\GitHub\ListaEncadeada\ListaEncadeada\obj\Debug\ListaEncadeada.exe
+C:\Users\juliana.potengy\Desktop\GitHub\ListaEncadeada\ListaEncadeada\obj\Debug\ListaEncadeada.pdb
